@@ -1,0 +1,8 @@
+.text-wrap {
+    white-space: unset;
+}
+
+.cell-width {
+    white-space: normal;
+    width: 10%;
+}
